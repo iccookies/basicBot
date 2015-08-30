@@ -248,7 +248,7 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "basicBot",
+            botName: "CookieBot",
             language: "english",
             chatLink: "https://rawgit.com/iccookies/basicBot/master/lang/en.json",
             scriptLink: "https://rawgit.com/iccookies/basicBot/master/basicBot.js",
